@@ -1,0 +1,13 @@
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\obj\Debug\netcoreapp3.1\PredictionBuilder.csprojAssemblyReference.cache
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\obj\Debug\netcoreapp3.1\PredictionBuilder.AssemblyInfoInputs.cache
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\obj\Debug\netcoreapp3.1\PredictionBuilder.AssemblyInfo.cs
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\obj\Debug\netcoreapp3.1\PredictionBuilder.csproj.CoreCompileInputs.cache
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\bin\Debug\netcoreapp3.1\PredictionBuilder.exe
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\bin\Debug\netcoreapp3.1\PredictionBuilder.deps.json
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\bin\Debug\netcoreapp3.1\PredictionBuilder.runtimeconfig.json
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\bin\Debug\netcoreapp3.1\PredictionBuilder.runtimeconfig.dev.json
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\bin\Debug\netcoreapp3.1\PredictionBuilder.dll
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\bin\Debug\netcoreapp3.1\PredictionBuilder.pdb
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\obj\Debug\netcoreapp3.1\PredictionBuilder.dll
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\obj\Debug\netcoreapp3.1\PredictionBuilder.pdb
+C:\Users\duygu.yildiran\source\repos\PredictionBuilder\PredictionBuilder\obj\Debug\netcoreapp3.1\PredictionBuilder.genruntimeconfig.cache
